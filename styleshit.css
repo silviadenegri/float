@@ -27,8 +27,10 @@
   clear:both;
 }
 
-.yellow-left {
-  float:right;
+.yellow-right .img {
   width:23%;
   margin: 5% 5% 5% 0%;
+}
+
+.text-right{
 }
